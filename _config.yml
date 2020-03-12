@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: SSCQC Support
+github:
+  is_project_page: false
