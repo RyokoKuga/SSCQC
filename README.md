@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/62088244/76489219-0ff1bb00-646b-11ea-9073-c387c0032907.jpg" width="120px">
 
-[Amazon製品ページ](https://www.amazon.co.jp/)
+<img src="https://user-images.githubusercontent.com/62088244/76576777-7c6dc800-6506-11ea-9b86-0894fb827c7e.png" width="20px">&ensp;[Amazon製品ページ](https://www.amazon.co.jp/)
 
 ### サンプルファイル
   
