@@ -14,6 +14,7 @@
 <img src="https://user-images.githubusercontent.com/62088244/76489282-36aff180-646b-11ea-977c-f4ed77d5b8d8.png" width="25px">&ensp;[ダウンロード](https://github.com/RyokoKuga/SSCQC/raw/master/SampleData.zip)
 
 - サンプルファイルは本書の学習用途に限って使用を許諾されており、用途外の使用や無断複製、再配布等は禁じられています。
+
 - サンプルファイルに関するいかなる運用結果について一切の責任を負いません。あらかじめご了承ください。
 
 ### 正誤情報
