@@ -10,7 +10,7 @@
 
 このページでは、本書で使用されている計算のサンプルファイルをダウンロードすることができます。
 
-<img src="https://user-images.githubusercontent.com/62088244/76489282-36aff180-646b-11ea-977c-f4ed77d5b8d8.png" width="25px">&ensp;[ダウンロード](https://github.com/werty99-88/welove9/raw/0e4c007ad152cdec8323b302dab328bb705c74b1/test.zip)
+<img src="https://user-images.githubusercontent.com/62088244/76489282-36aff180-646b-11ea-977c-f4ed77d5b8d8.png" width="25px">&ensp;[ダウンロード](https://www.amazon.co.jp/)
 
 
 ・本書および本書で提供されるサンプルファイルは著作権法上の保護を受けています。本書のサンプルファイルは本書の学習用途に限って使用を許諾されており、用途外の使用や無断複製、再配布等は禁じられています。
