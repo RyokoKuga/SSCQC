@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+<img src="https://user-images.githubusercontent.com/62088244/76489262-2ac42f80-646b-11ea-885b-6a9a8d171998.jpg" width="600px">
 
-You can use the [editor on GitHub](https://github.com/RyokoKuga/SSCQC/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+この度は、「ゼロからわかる!! 独習量子化学計算」をお買い求めいただき、誠にありがとうございます。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://user-images.githubusercontent.com/62088244/76489219-0ff1bb00-646b-11ea-9073-c387c0032907.jpg" width="120px">
 
-### Markdown
+[Amazon製品ページ](https://www.amazon.co.jp/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### サンプルファイル
 
-```markdown
-Syntax highlighted code block
+このページでは、本書で使用されている計算のサンプルファイルをダウンロードすることができます。
 
-# Header 1
-## Header 2
-### Header 3
+<img src="https://user-images.githubusercontent.com/62088244/76489282-36aff180-646b-11ea-977c-f4ed77d5b8d8.png" width="25px">&ensp;[ダウンロード](https://github.com/test.zip)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+・本書および本書で提供されるサンプルファイルは著作権法上の保護を受けています。本書のサンプルファイルは本書の学習用途に限って使用を許諾されており、用途外の使用や無断複製、再配布等は禁じられています。
 
-**Bold** and _Italic_ and `Code` text
+・ダウンロードデータに含まれるファイルに関するいかなる運用結果についても、一切の責任を負いません。あらかじめご了承ください。
 
-[Link](url) and ![Image](src)
-```
+### 正誤情報
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+　正誤が見つかり次第掲載いたします。
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RyokoKuga/SSCQC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
