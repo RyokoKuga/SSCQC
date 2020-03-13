@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: SSCQC Support
-title : The Self-Taught Computational Quantum Chemistry
+description: The Self-Taught Computational Quantum Chemistry
 github:
   is_project_page: false
