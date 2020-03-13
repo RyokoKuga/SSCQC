@@ -3,3 +3,5 @@ title: SSCQC Support
 description: The Self-Taught Computational Quantum Chemistry
 github:
   is_project_page: false
+plugins:
+ - jekyll-sitemap
