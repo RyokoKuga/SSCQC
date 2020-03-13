@@ -21,4 +21,4 @@
 
 正誤が見つかり次第掲載いたします。
 
- <head><meta name="google-site-verification" content="ynMrKc1L_JKIqJyIO3AYmPsVWd5OrYRu-2ARTrFVmsw" />
+ <head><meta name="google-site-verification" content="ynMrKc1L_JKIqJyIO3AYmPsVWd5OrYRu-2ARTrFVmsw" /></head>
