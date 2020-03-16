@@ -139,35 +139,3 @@ Chapter-16. 付録
 
 正誤が見つかり次第掲載いたします。
 
-
-<html>
-<head>
-<link href="pisocials.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="pisocials.js"></script>
-<script>
-$(function(){
-var param = {
-	"services": [
-		"facebookShare",
-		"facebookLike",
-		"twitter",
-		"googleplus",
-		"hatena",
-		"pocket"
-	],
-	"url": "https://ryokokuga.github.io/SSCQC/",
-	"title": "ゼロからわかる!! 独習 量子化学計算",
-	"size": "S",
-	"design": "flat",
-	"round": 40,
-	"color": ""
-}
-$("#element-id").pisocials(param);	
-});
-</script>
-</head>
-<body>
-<div id="element-id"></div>
-</body>
-<html>
