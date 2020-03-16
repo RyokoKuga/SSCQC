@@ -140,6 +140,7 @@ Chapter-16. 付録
 正誤が見つかり次第掲載いたします。
 <br/>
 <br/>
+
 <a href="https://b.hatena.ne.jp/entry/s/ryokokuga.github.io/SSCQC/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
 <a href="https://twitter.com/intent/tweet?text=%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E3%82%8F%E3%81%8B%E3%82%8B!!+%E7%8B%AC%E7%BF%92+%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6%E8%A8%88%E7%AE%97&url=https%3A%2F%2Fryokokuga.github.io%2FSSCQC%2F&hashtags=&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
   <img src="http://jpillora.com/github-twitter-button/img/tweet.png"
