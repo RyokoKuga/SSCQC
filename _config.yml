@@ -4,6 +4,4 @@ description: 書籍のサポートページへようこそ
 github:
   is_project_page: false
 url: "https://ryokokuga.github.io/SSCQC/"
-plugins:
- - jekyll-sitemap
 google_analytics: UA-91414511-2
