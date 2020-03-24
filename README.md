@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/62088244/76489219-0ff1bb00-646b-11ea-9073-c387c0032907.jpg" width="120px">
 
-<img src="https://user-images.githubusercontent.com/62088244/76576777-7c6dc800-6506-11ea-9b86-0894fb827c7e.png" width="20px">&ensp;<a href="https://www.amazon.co.jp/dp/B0863C799Z" target="_blank">Amazon製品ページ</a>
+<img src="https://user-images.githubusercontent.com/62088244/76576777-7c6dc800-6506-11ea-9b86-0894fb827c7e.png" width="20px">&ensp;<a href="https://amzn.to/2UvBOIf" target="_blank">Amazon製品ページ</a>
 
 ### 内容紹介
 本書は、はじめて量子化学計算にとりくむ初心者向けのやさしい入門書です。家庭用パソコン(Windows, Mac)やスマートフォンからも計算環境を構築でき、GAMESS(US)やFireflyといった無料のソフトウェアを使うので誰でも簡単に学習をはじめられます。
