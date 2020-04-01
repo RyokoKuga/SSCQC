@@ -1,4 +1,4 @@
-[サンプルファイル](#jump-there1)  　　　[正誤情報](#jump-there2)  　　　<a href="http://pc-chem-basics.blog.jp/" target="_blank">筆者HP(PC CHEM BASICS.COM)</a>  　　　<a href="https://amzn.to/2UvBOIf" target="_blank">Amazon製品ページ</a>
+[サンプルファイル](#jump-there1)  　　　[正誤情報](#jump-there2)  　　　<a href="http://pc-chem-basics.blog.jp/" target="_blank">筆者HP&nbsp;(PC CHEM BASICS.COM)</a>  　　　<a href="https://amzn.to/2UvBOIf" target="_blank">Amazon製品ページ</a>
 <br/>
 <br/>
 
