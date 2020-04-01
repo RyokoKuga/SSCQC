@@ -1,4 +1,4 @@
-[サンプルファイル](#jump-there)  　　　リンク集  　　　<a href="http://pc-chem-basics.blog.jp/" target="_blank">筆者HP(PC CHEM BASICS.COM)</a>  　　　<a href="https://amzn.to/2UvBOIf" target="_blank">Amazon製品ページ</a>
+[サンプルファイル](#jump-there1)  　　　[正誤情報](#jump-there2)  　　　<a href="http://pc-chem-basics.blog.jp/" target="_blank">筆者HP(PC CHEM BASICS.COM)</a>  　　　<a href="https://amzn.to/2UvBOIf" target="_blank">Amazon製品ページ</a>
 <br/>
 <br/>
 
@@ -140,7 +140,7 @@ Chapter-16. 付録
 16-8. MOPACによる遷移状態の探索方法  
 </pre></details>  
 
-### <a name="jump-there">サンプルファイル</a>
+### <a name="jump-there1">サンプルファイル</a>
   
 サンプルファイルはZip形式にて圧縮しております。解凍の際はChapter1の章末に表記されているパスワードを半角英数字で入力してください。 
 
@@ -150,7 +150,7 @@ Chapter-16. 付録
 
 - サンプルファイルに関するいかなる運用結果について一切の責任を負いません。あらかじめご了承ください。
 
-### 正誤情報
+### <a name="jump-there2">正誤情報</a>
 
 正誤が見つかり次第掲載いたします。
 <br/>
