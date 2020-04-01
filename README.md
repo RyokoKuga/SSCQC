@@ -1,4 +1,4 @@
-[サンプルファイル](#jump-there)  　　　リンク集  　　　筆者HP(PC CHEM BASICS.COM)  　　　Amazon製品ページ
+[サンプルファイル](#jump-there)  　　　リンク集  　　　<a href="http://pc-chem-basics.blog.jp/" target="_blank">筆者HP(PC CHEM BASICS.COM)</a>  　　　<a href="https://amzn.to/2UvBOIf" target="_blank">Amazon製品ページ</a>
 <br/>
 <br/>
 
