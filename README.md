@@ -139,6 +139,7 @@ Chapter-16. 付録
 16-7. 外部基底関数の導入方法  
 16-8. MOPACによる遷移状態の探索方法  
 </pre></details>  
+<br/>
 
 ### <a name="jump-there1">サンプルファイル</a>
   
