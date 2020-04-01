@@ -1,4 +1,4 @@
-[サンプルファイル](#jump-there)
+[サンプルファイル](#jump-there)  　　　　リンク集  　　　　筆者HP  　　　　Amazon製品ページ
 
 <img src="https://user-images.githubusercontent.com/62088244/76492965-d6be4880-6474-11ea-8817-7c427534b3e7.jpg" width="600px">
 
