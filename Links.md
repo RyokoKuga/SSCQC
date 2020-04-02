@@ -1,8 +1,8 @@
 ### Chapter1
-1. Gaussian社のHP：https://gaussian.com/
+1) Gaussian社のHP：https://gaussian.com/
 
 ### Chapter2
-2. Avogadro on rollApp：https://www.rollapp.com/app/avogadro  
+2) Avogadro on rollApp：https://www.rollapp.com/app/avogadro  
 - Firefly：http://classic.chem.msu.su/gran/gamess/  
 - WinRAR：http://www.winrarjapan.com/download  
 - GAMESS(US)：https://www.msg.chem.iastate.edu/gamess/  
