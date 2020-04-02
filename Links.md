@@ -1,3 +1,5 @@
+本書の脚注文献及び、ソフトウエアの入手先やデータベースなどのリンク集です。文献へのアクセスはDOIをクリックしてください。参考文献は、本書の巻末をご参照ください。
+
 ### Chapter1
 1) Gaussian社のHP：<a href="https://gaussian.com/" target="_blank">https://gaussian.com/</a>
 
