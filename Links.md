@@ -30,8 +30,8 @@
 
 ### Chapter4
 5) David C. Young. “Spin Contamination” <a href="http://www.ccl.net/cca/documents/dyoung/topics-orig/spin_cont.html" target="_blank">http://www.ccl.net/cca/documents/dyoung/topics-orig/spin_cont.html</a>, 20-FEB-2020.  
-6) 日本化学会編, “実験科学講座 12”第五版, 丸善 (2004).  
-7) 常田貴夫, “密度汎関数法の基礎”, 講談社 (2012).  
+6) 日本化学会編, “実験科学講座 12”第五版, 丸善 (2004).&emsp;<a href="https://amzn.to/2WX7j0C" target="_blank"><img src="https://user-images.githubusercontent.com/62088244/78211272-75bfe880-74e7-11ea-84b1-8846cd3a14a3.png" width="140px"></a>  
+7) 常田貴夫, “密度汎関数法の基礎”, 講談社 (2012).&emsp;<a href="https://amzn.to/2Juo7Ec" target="_blank"><img src="https://user-images.githubusercontent.com/62088244/78211272-75bfe880-74e7-11ea-84b1-8846cd3a14a3.png" width="140px"></a>  
 8) QCLDBⅡ：<a href="http://qcldb2.ims.ac.jp/" target="_blank">http://qcldb2.ims.ac.jp/</a>  
 - CCCBDB Timings Comparison：<a href="https://cccbdb.nist.gov/timings.asp" target="_blank">https://cccbdb.nist.gov/timings.asp</a>
 - Basis Set Exchange：<a href="https://www.basissetexchange.org" target="_blank">https://www.basissetexchange.org</a>
