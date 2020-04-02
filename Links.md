@@ -2,22 +2,22 @@
 1) Gaussian社のHP：<a href="https://gaussian.com/" target="_blank">https://gaussian.com/</a>
 
 ### Chapter2
-2) Avogadro on rollApp：https://www.rollapp.com/app/avogadro  
-- Firefly：http://classic.chem.msu.su/gran/gamess/  
-- WinRAR：http://www.winrarjapan.com/download  
-- GAMESS(US)：https://www.msg.chem.iastate.edu/gamess/  
-- MoCalc2012：https://sourceforge.net/projects/mocalc2012/  
-- Avogadro：https://avogadro.cc/  
-- MacMolPlt：https://brettbode.github.io/wxmacmolplt/downloads.html  
-- MaSK：http://ccmsi.us/mask/  
-- PlayOnMac：https://www.playonmac.com/en  
+2) Avogadro on rollApp：<a href="https://www.rollapp.com/app/avogadro" target="_blank">https://www.rollapp.com/app/avogadro</a>  
+- Firefly：<a href="https://www.rollapp.com/app/avogadro" target="_blank">http://classic.chem.msu.su/gran/gamess/</a>  
+- WinRAR：<a href="http://www.winrarjapan.com/download" target="_blank">http://www.winrarjapan.com/download</a>  
+- GAMESS(US)：<a href="https://www.msg.chem.iastate.edu/gamess/" target="_blank">https://www.msg.chem.iastate.edu/gamess/</a>   
+- MoCalc2012：<a href="https://sourceforge.net/projects/mocalc2012/" target="_blank">https://sourceforge.net/projects/mocalc2012/</a>  
+- Avogadro：<a href="https://avogadro.cc/" target="_blank">https://avogadro.cc/</a>  
+- MacMolPlt：<a href="https://brettbode.github.io/wxmacmolplt/downloads.html" target="_blank">https://brettbode.github.io/wxmacmolplt/downloads.html</a>  
+- MaSK：<a href="http://ccmsi.us/mask/" target="_blank">http://ccmsi.us/mask/</a>  
+- PlayOnMac：<a href="https://www.playonmac.com/en" target="_blank">https://www.playonmac.com/en</a>  
 
 ### Chapter3
-3) A. K. Rappe, C. J. Casewit, K. S. Colwell, W. A. Goddard, W. M. Skiff, *J Am. Chem. Soc.* **114**, 10024–10035, (1992), doi:10.1021/ja00051a040.  
+3) A. K. Rappe, C. J. Casewit, K. S. Colwell, W. A. Goddard, W. M. Skiff, *J Am. Chem. Soc.* **114**, 10024–10035, (1992), doi:<a href="https://pubs.acs.org/doi/10.1021/ja00051a040" target="_blank">10.1021/ja00051a040</a>.  
 4) A. R. Hoy, P. R. Bunker, *J. Molecular Spectroscopy*, **74**, 1-8, (1979), doi:10.1016/0022-2852(79)90019-5.  
-- XQuartz：https://www.xquartz.org/
-- GAMESSQ ：http://www.msg.chem.iastate.edu/GAMESS/GamessQ/
-- JSmol：https://chemapps.stolaf.edu/jmol/jmol.htm
+- XQuartz：<a href="https://www.xquartz.org/" target="_blank">https://www.xquartz.org/</a>
+- GAMESSQ ：<a href="http://www.msg.chem.iastate.edu/GAMESS/GamessQ/" target="_blank">http://www.msg.chem.iastate.edu/GAMESS/GamessQ/</a>
+- JSmol：<a href="https://chemapps.stolaf.edu/jmol/jmol.htm" target="_blank">https://chemapps.stolaf.edu/jmol/jmol.htm</a>
 
 ### Chapter4
 5) David C. Young. “Spin Contamination” http://www.ccl.net/cca/documents/dyoung/topics-orig/spin_cont.html, 20-FEB-2020.  
