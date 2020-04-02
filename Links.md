@@ -1,3 +1,6 @@
+<a href="https://ryokokuga.github.io/SSCQC/">Topページへ戻る</a>  　　　<a href="http://pc-chem-basics.blog.jp/" target="_blank">筆者HP&nbsp;(PC CHEM BASICS.COM)</a>  　　　<a href="https://amzn.to/2UvBOIf" target="_blank">Amazon製品ページ</a>
+<br/>
+<br/>
 本書の脚注文献及び、ソフトウエアの入手先やデータベースなどのリンク集です。文献へのアクセスはDOIをクリックしてください。参考文献は、本書の巻末をご参照ください。
 
 ### Chapter1
