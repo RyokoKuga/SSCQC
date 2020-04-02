@@ -70,43 +70,44 @@
 31) 都築誠二, “有機分子の分子間力: Ab initio 分子軌道法による分子間相互作用エネルギーの解析”, 東京大学出版会 (2015).  
 
 ### Chapter11
-32) Jacopo Tomasi, Benedetta Mennucci, Roberto Cammi, Chem. Rev. 105, 2999-3094 (2005),
-doi:10.1021/cr9904009.  
-33) S. Cabani, P. Gianni, V. Mollica, L. Lepori, J. Solution Chem. 10, 563 (1981), doi:10.1007/BF00646936.  
+32) Jacopo Tomasi, Benedetta Mennucci, Roberto Cammi, *Chem. Rev.* **105**, 2999-3094 (2005),
+doi:<a href="https://pubs.acs.org/doi/10.1021/cr9904009" target="_blank">10.1021/cr9904009</a>.  
+33) S. Cabani, P. Gianni, V. Mollica, L. Lepori, *J. Solution Chem.* **10**, 563 (1981), doi:<a href="https://link.springer.com/article/10.1007/BF00646936" target="_blank">10.1007/BF00646936</a>.  
 
 ### Chapter12
-34) 堀憲次, 山口徹. 化学反応遷移状態計算方法. 特許第4324680号. 2009-09-02.  
-- ChemTube3D：https://www.chemtube3d.com/
+34) 堀憲次, 山口徹. 化学反応遷移状態計算方法. <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-4324680/0E7E65867843E2C612AD07E80852186BB318B12006A8F2ABCD1CB1B2D276A10F/15/ja" target="_blank">特許第4324680号</a>. 2009-09-02.  
+- ChemTube3D：<a href="https://www.chemtube3d.com/" target="_blank">https://www.chemtube3d.com/</a>
 
 ### Chapter13
+No footnotes.
 
 ### Chapter14
-35) C. Li, P. Ross, J. E. Szulejko, and T. B. McMahon, J. Am. Chem. Soc. 118, 9360 (1996), doi:10.1021/ja960565o.  
-- Apache OpenOffice：https://www.openoffice.org/ja/
-- Mercury：http://www.ccdc.cam.ac.uk/mercury/
-- Blender：https://www.blender.org/
-- rxnlvl：https://github.com/eutactic/rxnlvl
-- PyEnergyDiagrams：https://github.com/giacomomarchioro/PyEnergyDiagrams
+35) C. Li, P. Ross, J. E. Szulejko, and T. B. McMahon, *J. Am. Chem. Soc.* **118**, 9360 (1996), doi:<a href="https://pubs.acs.org/doi/10.1021/ja960565o" target="_blank">10.1021/ja960565o</a>.  
+- Apache OpenOffice：<a href="https://www.openoffice.org/ja/" target="_blank">https://www.openoffice.org/ja/</a>
+- Mercury：<a href="http://www.ccdc.cam.ac.uk/mercury/" target="_blank">http://www.ccdc.cam.ac.uk/mercury/</a>
+- Blender：<a href="https://www.blender.org/" target="_blank">https://www.blender.org/</a>
+- rxnlvl：<a href="https://github.com/eutactic/rxnlvl" target="_blank">https://github.com/eutactic/rxnlvl</a>
+- PyEnergyDiagrams：<a href="https://github.com/giacomomarchioro/PyEnergyDiagrams" target="_blank">https://github.com/giacomomarchioro/PyEnergyDiagrams</a>
 
 ### Chapter15
-36) W. J. Hehre, R. Ditchfield, L. Radom, J. A. Pople, J. Am. Chem. Soc. 92, 4796 (1970), doi:10.1021/ja00719a006.  
-37) S. E. Wheeler, K. N. Houk, P. v. R. Schleyer, W. D. Allen, J. Am. Chem. Soc. 131, 2547 (2009), doi:10.1021/ja805843n.  
-38) K. B. Wiberg, C. M. Hadad, P. R. Rablen, J. Cioslowski, J. Am. Chem. Soc. 114, 8644 (1992), doi:10.1021/ja00048a044.  
+36) W. J. Hehre, R. Ditchfield, L. Radom, J. A. Pople, *J. Am. Chem. Soc.* **92**, 4796 (1970), doi:10.1021/ja00719a006.  
+37) S. E. Wheeler, K. N. Houk, P. v. R. Schleyer, W. D. Allen, *J. Am. Chem. Soc.* **131**, 2547 (2009), doi:10.1021/ja805843n.  
+38) K. B. Wiberg, C. M. Hadad, P. R. Rablen, J. Cioslowski, *J. Am. Chem. Soc.* **114**, 8644 (1992), doi:10.1021/ja00048a044.  
 39) 日本化学会編, “実験科学講座 12”第五版, 丸善 (2004).  
-40) Y. Zhao, D. G. Truhlar, Theor Chem Account 120, 215–241 (2008), doi:10.1007/s00214-007-0310-x.  
-41) Harold Booth, Jeremy R. Everett, J. Chem. Soc., Perkin Trans. 2, 255 (1980), doi:10.1039/P29800000255.  
-42) Alfred Karpfen, Cheol Ho Choi, Miklos Kertesz, J. Phys. Chem. A, 101, 7426 (1997),
+40) Y. Zhao, D. G. Truhlar, *Theor Chem Account* **120**, 215–241 (2008), doi:10.1007/s00214-007-0310-x.  
+41) Harold Booth, Jeremy R. Everett, *J. Chem. Soc., Perkin Trans.* **2**, 255 (1980), doi:10.1039/P29800000255.  
+42) Alfred Karpfen, Cheol Ho Choi, Miklos Kertesz, *J. Phys. Chem. A*, **101**, 7426 (1997),
 doi:10.1021/jp971606l.  
-43) B. W. McCann, Stuart McFarl, Orlando Acevedo, J. Phys. Chem. A, 119, 8724 (2015),
+43) B. W. McCann, Stuart McFarl, Orlando Acevedo, *J. Phys. Chem. A*, **119**, 8724 (2015),
 doi:10.1021/acs.jpca.5b04116.  
 44) Johnson R. D. III: NIST Computational Chemistry Comparison and Benchmark Database, NIST Standard Reference Database Number 101 Release 20, August 2019, http://cccbdb.nist.gov/, 20-FEB-2020.  
 45) A. Granovsky. “Density Functional Theory”, http://classic.chem.msu.su/gran/gamess/DFT_and_DFT-D.pdf, 20-FEB-2020.  
 46) NIST. https://webbook.nist.gov/chemistry/  
-47) H. P. Ebrahimi, H. Shaghaghi, M. Tafazzoli, Concepts Magn Reson Part A, 38, 269 (2011), doi:10.1002/cmr.a.20227.  
-48) Kim K. Baldridge, Jay S. Siegel, J. Phys. Chem. A, 103, 4038 (1999), doi:10.1021/jp990523x.  
-49) J. R. Cheeseman, G. W. Trucks, T. A. Keith, M. J. Frisch, J. Chem. Phys. 104, 5497 (1996), doi:10.1063/1.471789.  
+47) H. P. Ebrahimi, H. Shaghaghi, M. Tafazzoli, *Concepts Magn Reson Part A*, **38**, 269 (2011), doi:10.1002/cmr.a.20227.  
+48) Kim K. Baldridge, Jay S. Siegel, *J. Phys. Chem. A*, **103**, 4038 (1999), doi:10.1021/jp990523x.  
+49) J. R. Cheeseman, G. W. Trucks, T. A. Keith, M. J. Frisch, *J. Chem. Phys*. **104**, 5497 (1996), doi:10.1063/1.471789.  
 50) SDBSWeb: https://sdbs.db.aist.go.jp, AIST, 20-FEB-2020.  
-51) J. A. N. F. Gomes, R. B. Mallion, Chem. Rev. 101 (5), 1349 (2001), doi:10.1021/cr990323h.  
+51) J. A. N. F. Gomes, R. B. Mallion, *Chem. Rev.* **101** (5), 1349 (2001), doi:10.1021/cr990323h.  
 - CCCBDB (Reaction data)：http://cccbdb.nist.gov/reactions.asp
 - PubChemQC：http://pubchemqc.riken.jp/
 - 7-Zip：https://sevenzip.osdn.jp/
@@ -119,8 +120,8 @@ doi:10.1021/acs.jpca.5b04116.
 52) David C. Young, “Computational Chemistry”, Wiley-Interscience (2001).  
 53) David C. Young, “Dave Young's Chemical Topics”, http://www.ccl.net/cca/documents/dyoung/topics-orig/, 20-FEB-2020.  
 54) A. Granovsky, "Firefly 8.2.0 Full Manual", Version 2016-09-15, pp. 72-73.  
-55) M. J. S. Dewar, E. G. Zoebisch, and E. F. Healy, J. Am. Chem. Soc. 107, 3902 (1985), doi:10.1021/ja00299a024 .  
-56) J. J. P. Stewart, J. Comp. Chem. 10, 209, 211 (1989), doi:10.1002/jcc.540100208.  
+55) M. J. S. Dewar, E. G. Zoebisch, and E. F. Healy, *J. Am. Chem. Soc.* **107**, 3902 (1985), doi:10.1021/ja00299a024 .  
+56) J. J. P. Stewart, *J. Comp. Chem.* **10**, 209, 211 (1989), doi:10.1002/jcc.540100208.  
 57) Stewart Computational Chemistry-MOPAC Home Page. http://openmopac.net/  
 - Chem Compute：https://chemcompute.org
 - WebMO：https://www.webmo.net/
