@@ -90,66 +90,66 @@ No footnotes.
 - PyEnergyDiagrams：<a href="https://github.com/giacomomarchioro/PyEnergyDiagrams" target="_blank">https://github.com/giacomomarchioro/PyEnergyDiagrams</a>
 
 ### Chapter15
-36) W. J. Hehre, R. Ditchfield, L. Radom, J. A. Pople, *J. Am. Chem. Soc.* **92**, 4796 (1970), doi:10.1021/ja00719a006.  
-37) S. E. Wheeler, K. N. Houk, P. v. R. Schleyer, W. D. Allen, *J. Am. Chem. Soc.* **131**, 2547 (2009), doi:10.1021/ja805843n.  
-38) K. B. Wiberg, C. M. Hadad, P. R. Rablen, J. Cioslowski, *J. Am. Chem. Soc.* **114**, 8644 (1992), doi:10.1021/ja00048a044.  
+36) W. J. Hehre, R. Ditchfield, L. Radom, J. A. Pople, *J. Am. Chem. Soc.* **92**, 4796 (1970), doi:<a href="https://pubs.acs.org/doi/abs/10.1021/ja00719a006" target="_blank">10.1021/ja00719a006</a>.  
+37) S. E. Wheeler, K. N. Houk, P. v. R. Schleyer, W. D. Allen, *J. Am. Chem. Soc.* **131**, 2547 (2009), doi:<a href="https://pubs.acs.org/doi/10.1021/ja805843n" target="_blank">10.1021/ja805843n</a>.  
+38) K. B. Wiberg, C. M. Hadad, P. R. Rablen, J. Cioslowski, *J. Am. Chem. Soc.* **114**, 8644 (1992), doi:<a href="https://pubs.acs.org/doi/abs/10.1021/ja00048a044" target="_blank">10.1021/ja00048a044</a>.  
 39) 日本化学会編, “実験科学講座 12”第五版, 丸善 (2004).  
-40) Y. Zhao, D. G. Truhlar, *Theor Chem Account* **120**, 215–241 (2008), doi:10.1007/s00214-007-0310-x.  
-41) Harold Booth, Jeremy R. Everett, *J. Chem. Soc., Perkin Trans.* **2**, 255 (1980), doi:10.1039/P29800000255.  
+40) Y. Zhao, D. G. Truhlar, *Theor Chem Account* **120**, 215–241 (2008), doi:<a href="https://link.springer.com/article/10.1007/s00214-007-0310-x" target="_blank">10.1007/s00214-007-0310-x</a>.  
+41) Harold Booth, Jeremy R. Everett, *J. Chem. Soc., Perkin Trans.* **2**, 255 (1980), doi:<a href="https://pubs.rsc.org/en/content/articlelanding/1980/P2/P29800000255#!divAbstract" target="_blank">10.1039/P29800000255</a>.  
 42) Alfred Karpfen, Cheol Ho Choi, Miklos Kertesz, *J. Phys. Chem. A*, **101**, 7426 (1997),
-doi:10.1021/jp971606l.  
+doi:<a href="https://pubs.acs.org/doi/10.1021/jp971606l" target="_blank">10.1021/jp971606l</a>.  
 43) B. W. McCann, Stuart McFarl, Orlando Acevedo, *J. Phys. Chem. A*, **119**, 8724 (2015),
-doi:10.1021/acs.jpca.5b04116.  
-44) Johnson R. D. III: NIST Computational Chemistry Comparison and Benchmark Database, NIST Standard Reference Database Number 101 Release 20, August 2019, http://cccbdb.nist.gov/, 20-FEB-2020.  
-45) A. Granovsky. “Density Functional Theory”, http://classic.chem.msu.su/gran/gamess/DFT_and_DFT-D.pdf, 20-FEB-2020.  
-46) NIST. https://webbook.nist.gov/chemistry/  
-47) H. P. Ebrahimi, H. Shaghaghi, M. Tafazzoli, *Concepts Magn Reson Part A*, **38**, 269 (2011), doi:10.1002/cmr.a.20227.  
-48) Kim K. Baldridge, Jay S. Siegel, *J. Phys. Chem. A*, **103**, 4038 (1999), doi:10.1021/jp990523x.  
-49) J. R. Cheeseman, G. W. Trucks, T. A. Keith, M. J. Frisch, *J. Chem. Phys*. **104**, 5497 (1996), doi:10.1063/1.471789.  
-50) SDBSWeb: https://sdbs.db.aist.go.jp, AIST, 20-FEB-2020.  
-51) J. A. N. F. Gomes, R. B. Mallion, *Chem. Rev.* **101** (5), 1349 (2001), doi:10.1021/cr990323h.  
-- CCCBDB (Reaction data)：http://cccbdb.nist.gov/reactions.asp
-- PubChemQC：http://pubchemqc.riken.jp/
-- 7-Zip：https://sevenzip.osdn.jp/
-- The Unarchiver：https://theunarchiver.com/
-- Chemical Shift Repository：http://cheshirenmr.info
-- nmrdb.org：http://www.nmrdb.org
-- NMRShiftDBNMR：http://nmrshiftdb.nmr.uni-koeln.de/
+doi:<a href="https://pubs.acs.org/doi/10.1021/acs.jpca.5b04116" target="_blank">10.1021/acs.jpca.5b04116</a>.  
+44) Johnson R. D. III: NIST Computational Chemistry Comparison and Benchmark Database, NIST Standard Reference Database Number 101 Release 20, August 2019, <a href="http://cccbdb.nist.gov/" target="_blank">http://cccbdb.nist.gov/</a>, 20-FEB-2020.  
+45) A. Granovsky. “Density Functional Theory”, <a href="http://classic.chem.msu.su/gran/gamess/DFT_and_DFT-D.pdf" target="_blank">http://classic.chem.msu.su/gran/gamess/DFT_and_DFT-D.pdf</a>, 20-FEB-2020.  
+46) NIST. <a href="https://webbook.nist.gov/chemistry/" target="_blank">https://webbook.nist.gov/chemistry/</a>  
+47) H. P. Ebrahimi, H. Shaghaghi, M. Tafazzoli, *Concepts Magn Reson Part A*, **38**, 269 (2011), doi:<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/cmr.a.20227" target="_blank">10.1002/cmr.a.20227</a>.  
+48) Kim K. Baldridge, Jay S. Siegel, *J. Phys. Chem. A*, **103**, 4038 (1999), doi:<a href="https://pubs.acs.org/doi/abs/10.1021/jp990523x" target="_blank">10.1021/jp990523x</a>.  
+49) J. R. Cheeseman, G. W. Trucks, T. A. Keith, M. J. Frisch, *J. Chem. Phys*. **104**, 5497 (1996), doi:<a href="https://aip.scitation.org/doi/10.1063/1.471789" target="_blank">10.1063/1.471789</a>.  
+50) SDBSWeb: <a href="https://sdbs.db.aist.go.jp" target="_blank">https://sdbs.db.aist.go.jp</a>, AIST, 20-FEB-2020.  
+51) J. A. N. F. Gomes, R. B. Mallion, *Chem. Rev.* **101** (5), 1349 (2001), doi:<a href="https://pubs.acs.org/doi/10.1021/cr990323h" target="_blank">10.1021/cr990323h</a>.  
+- CCCBDB (Reaction data)：<a href="http://cccbdb.nist.gov/reactions.asp" target="_blank">http://cccbdb.nist.gov/reactions.asp</a>
+- PubChemQC：<a href="http://pubchemqc.riken.jp/" target="_blank">http://pubchemqc.riken.jp/</a>
+- 7-Zip：<a href="https://sevenzip.osdn.jp/" target="_blank">https://sevenzip.osdn.jp/</a>
+- The Unarchiver：<a href="https://theunarchiver.com/" target="_blank">https://theunarchiver.com/</a>
+- Chemical Shift Repository：<a href="http://cheshirenmr.info" target="_blank">http://cheshirenmr.info</a>
+- nmrdb.org：<a href="http://www.nmrdb.org" target="_blank">http://www.nmrdb.org</a>
+- NMRShiftDBNMR：<a href="http://nmrshiftdb.nmr.uni-koeln.de/" target="_blank">http://nmrshiftdb.nmr.uni-koeln.de/</a>
 
 ### Chapter16
 52) David C. Young, “Computational Chemistry”, Wiley-Interscience (2001).  
-53) David C. Young, “Dave Young's Chemical Topics”, http://www.ccl.net/cca/documents/dyoung/topics-orig/, 20-FEB-2020.  
+53) David C. Young, “Dave Young's Chemical Topics”, <a href="http://www.ccl.net/cca/documents/dyoung/topics-orig/" target="_blank">http://www.ccl.net/cca/documents/dyoung/topics-orig/</a>, 20-FEB-2020.  
 54) A. Granovsky, "Firefly 8.2.0 Full Manual", Version 2016-09-15, pp. 72-73.  
-55) M. J. S. Dewar, E. G. Zoebisch, and E. F. Healy, *J. Am. Chem. Soc.* **107**, 3902 (1985), doi:10.1021/ja00299a024 .  
-56) J. J. P. Stewart, *J. Comp. Chem.* **10**, 209, 211 (1989), doi:10.1002/jcc.540100208.  
-57) Stewart Computational Chemistry-MOPAC Home Page. http://openmopac.net/  
-- Chem Compute：https://chemcompute.org
-- WebMO：https://www.webmo.net/
-- WebMO Demo Server：https://www.webmo.net/demoserver/cgi-bin/webmo/login.cgi
-- FiCo：http://classic.chem.msu.su/gran/gamess/
-- JSmol：http://jmol.sourceforge.net/
-- Jmol (SOURCEFORGE)：https://sourceforge.net/projects/jmol/files/Jmol/
-- GaussSum：http://gausssum.sourceforge.net/
-- Open Babel：http://openbabel.org/wiki/Main_Page
-- Gabedit：https://sites.google.com/site/allouchear/Home/gabedit/download
-- Facio：http://zzzfelis.sakura.ne.jp/
-- Winmostar：https://winmostar.com/jp/index.php
-- OSRA：https://cactus.nci.nih.gov/osra/
-- CCCBDB：https://cccbdb.nist.gov/
-- Basis Set Exchange：https://www.basissetexchange.org/
-- PubChemQC：http://pubchemqc.riken.jp/
-- PCCDB：http://pccdb.org/
-- QCLDBⅡ：http://qcldb2.ims.ac.jp/
-- ChemTube3D：https://www.chemtube3d.com/
-- CODATA：https://physics.nist.gov/cuu/Constants/index.html
-- Computational Chemistry List (CCL)：http://www.ccl.net/chemistry/index.shtml
-- LICEcap：https://www.cockos.com/licecap/
-- JSmol wiki (Borrowed JSmol)：http://wiki.jmol.org/index.php/Borrowed_JSmol
-- JSmol：https://chemapps.stolaf.edu/jmol/jmol.htm
-- IDTFConverter：https://sourceforge.net/projects/u3d/
-- PDF-XChange Editor：https://www.tracker-software.com/product/pdf-xchange-editor
-- Basis Set Exchange：https://www.basissetexchange.org/
-- MOPAC Downloads：http://openmopac.net/Downloads/Downloads.html
-- MOPAC 7 SP：https://github.com/brhr-iwao/MOPAC7SP/releases
-- WinMopac7.21：http://winmopac.narod.ru/english.html
+55) M. J. S. Dewar, E. G. Zoebisch, and E. F. Healy, *J. Am. Chem. Soc.* **107**, 3902 (1985), doi:<a href="https://pubs.acs.org/doi/10.1021/ja00299a024" target="_blank">10.1021/ja00299a024</a>.  
+56) J. J. P. Stewart, *J. Comp. Chem.* **10**, 209, 211 (1989), doi:<a href="https://onlinelibrary.wiley.com/doi/10.1002/jcc.540100208" target="_blank">10.1002/jcc.540100208</a>.  
+57) Stewart Computational Chemistry-MOPAC Home Page. <a href="http://openmopac.net/" target="_blank">http://openmopac.net/</a>  
+- Chem Compute：<a href="https://chemcompute.org" target="_blank">https://chemcompute.org</a>
+- WebMO：<a href="https://www.webmo.net/" target="_blank">https://www.webmo.net/</a>
+- WebMO Demo Server：<a href="https://www.webmo.net/demoserver/cgi-bin/webmo/login.cgi" target="_blank">https://www.webmo.net/demoserver/cgi-bin/webmo/login.cgi</a>
+- FiCo：<a href="http://classic.chem.msu.su/gran/gamess/" target="_blank">http://classic.chem.msu.su/gran/gamess/</a>
+- JSmol：<a href="http://jmol.sourceforge.net/" target="_blank">http://jmol.sourceforge.net/</a>
+- Jmol (SOURCEFORGE)：<a href="https://sourceforge.net/projects/jmol/files/Jmol/" target="_blank">https://sourceforge.net/projects/jmol/files/Jmol/</a>
+- GaussSum：<a href="http://gausssum.sourceforge.net/" target="_blank">http://gausssum.sourceforge.net/</a>
+- Open Babel：<a href="http://openbabel.org/wiki/Main_Page" target="_blank">http://openbabel.org/wiki/Main_Page</a>
+- Gabedit：<a href="https://sites.google.com/site/allouchear/Home/gabedit/download" target="_blank">https://sites.google.com/site/allouchear/Home/gabedit/download</a>
+- Facio：<a href="http://zzzfelis.sakura.ne.jp/" target="_blank">http://zzzfelis.sakura.ne.jp/</a>
+- Winmostar：<a href="https://winmostar.com/jp/index.php" target="_blank">https://winmostar.com/jp/index.php</a>
+- OSRA：<a href="https://cactus.nci.nih.gov/osra/" target="_blank">https://cactus.nci.nih.gov/osra/</a>
+- CCCBDB：<a href="https://cccbdb.nist.gov/" target="_blank">https://cccbdb.nist.gov/</a>
+- Basis Set Exchange：<a href="https://www.basissetexchange.org/" target="_blank">https://www.basissetexchange.org/</a>
+- PubChemQC：<a href="http://pubchemqc.riken.jp/" target="_blank">http://pubchemqc.riken.jp/</a>
+- PCCDB：<a href="http://pccdb.org/" target="_blank">http://pccdb.org/</a>
+- QCLDBⅡ：<a href="http://qcldb2.ims.ac.jp/" target="_blank">http://qcldb2.ims.ac.jp/</a>
+- ChemTube3D：<a href="https://www.chemtube3d.com/" target="_blank">https://www.chemtube3d.com/</a>
+- CODATA：<a href="https://physics.nist.gov/cuu/Constants/index.html" target="_blank">https://physics.nist.gov/cuu/Constants/index.html</a>
+- Computational Chemistry List (CCL)：<a href="http://www.ccl.net/chemistry/index.shtml" target="_blank">http://www.ccl.net/chemistry/index.shtml</a>
+- LICEcap：<a href="https://www.cockos.com/licecap/" target="_blank">https://www.cockos.com/licecap/</a>
+- JSmol wiki (Borrowed JSmol)：<a href="http://wiki.jmol.org/index.php/Borrowed_JSmol" target="_blank">http://wiki.jmol.org/index.php/Borrowed_JSmol</a>
+- JSmol：<a href="https://chemapps.stolaf.edu/jmol/jmol.htm" target="_blank">https://chemapps.stolaf.edu/jmol/jmol.htm</a>
+- IDTFConverter：<a href="https://sourceforge.net/projects/u3d/" target="_blank">https://sourceforge.net/projects/u3d/</a>
+- PDF-XChange Editor：<a href="https://www.tracker-software.com/product/pdf-xchange-editor" target="_blank">https://www.tracker-software.com/product/pdf-xchange-editor</a>
+- Basis Set Exchange：<a href="https://www.basissetexchange.org/" target="_blank">https://www.basissetexchange.org/</a>
+- MOPAC Downloads：<a href="http://openmopac.net/Downloads/Downloads.html" target="_blank">http://openmopac.net/Downloads/Downloads.html</a>
+- MOPAC 7 SP：<a href="https://github.com/brhr-iwao/MOPAC7SP/releases" target="_blank">https://github.com/brhr-iwao/MOPAC7SP/releases</a>
+- WinMopac7.21：<a href="http://winmopac.narod.ru/english.html" target="_blank">http://winmopac.narod.ru/english.html</a>
 
