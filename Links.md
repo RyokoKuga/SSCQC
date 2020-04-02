@@ -14,59 +14,59 @@
 
 ### Chapter3
 3) A. K. Rappe, C. J. Casewit, K. S. Colwell, W. A. Goddard, W. M. Skiff, *J Am. Chem. Soc.* **114**, 10024–10035, (1992), doi:<a href="https://pubs.acs.org/doi/10.1021/ja00051a040" target="_blank">10.1021/ja00051a040</a>.  
-4) A. R. Hoy, P. R. Bunker, *J. Molecular Spectroscopy*, **74**, 1-8, (1979), doi:10.1016/0022-2852(79)90019-5.  
+4) A. R. Hoy, P. R. Bunker, *J. Molecular Spectroscopy*, **74**, 1-8, (1979), doi:<a href="https://www.sciencedirect.com/science/article/abs/pii/0022285279900195" target="_blank">10.1016/0022-2852(79)90019-5</a>.  
 - XQuartz：<a href="https://www.xquartz.org/" target="_blank">https://www.xquartz.org/</a>
 - GAMESSQ ：<a href="http://www.msg.chem.iastate.edu/GAMESS/GamessQ/" target="_blank">http://www.msg.chem.iastate.edu/GAMESS/GamessQ/</a>
 - JSmol：<a href="https://chemapps.stolaf.edu/jmol/jmol.htm" target="_blank">https://chemapps.stolaf.edu/jmol/jmol.htm</a>
 
 ### Chapter4
-5) David C. Young. “Spin Contamination” http://www.ccl.net/cca/documents/dyoung/topics-orig/spin_cont.html, 20-FEB-2020.  
+5) David C. Young. “Spin Contamination” <a href="http://www.ccl.net/cca/documents/dyoung/topics-orig/spin_cont.html" target="_blank">http://www.ccl.net/cca/documents/dyoung/topics-orig/spin_cont.html</a>, 20-FEB-2020.  
 6) 日本化学会編, “実験科学講座 12”第五版, 丸善 (2004).  
 7) 常田貴夫, “密度汎関数法の基礎”, 講談社 (2012).  
-8) QCLDBⅡ：http://qcldb2.ims.ac.jp/  
-- CCCBDB Timings Comparison：https://cccbdb.nist.gov/timings.asp
-- Basis Set Exchange：https://www.basissetexchange.org
+8) QCLDBⅡ：<a href="http://qcldb2.ims.ac.jp/" target="_blank">http://qcldb2.ims.ac.jp/</a>  
+- CCCBDB Timings Comparison：<a href="https://cccbdb.nist.gov/timings.asp" target="_blank">https://cccbdb.nist.gov/timings.asp</a>
+- Basis Set Exchange：<a href="https://www.basissetexchange.org" target="_blank">https://www.basissetexchange.org</a>
 
 ### Chapter5. 
-- MolView：http://molview.org/
-- GaussSum：http://gausssum.sourceforge.net/
-- サクラエディタ：https://sakura-editor.github.io/
-- mi：http://www.mimikaki.net/
+- MolView：<a href="http://molview.org/" target="_blank">http://molview.org/</a>
+- GaussSum：<a href="http://gausssum.sourceforge.net/" target="_blank">http://gausssum.sourceforge.net/</a>
+- サクラエディタ：<a href="https://sakura-editor.github.io/" target="_blank">https://sakura-editor.github.io/</a>
+- mi：<a href="http://www.mimikaki.net/" target="_blank">http://www.mimikaki.net/</a>
 
 ### Chapter6
 9) J. B. Foresman, Æ. Frisch 著, 田崎健三 訳，”電子構造論による化学の探究” 第二版, Gaussian Inc., Pittsburgh (1998).   
-10) A. P. Scott, L. Radom, J. Phys. Chem. 100, 16502 (1996), doi:10.1021/jp960976r.  
-11) NIST Chemistry WebBook. https://webbook.nist.gov/chemistry/  
-12) CCCBDB. https://cccbdb.nist.gov/  
-13) https://webbook.nist.gov/cgi/cbook.cgi?ID=C98862, NIST, 20-FEB-2020.  
-- MolView：http://molview.org/  
+10) A. P. Scott, L. Radom, *J. Phys. Chem.* **100**, 16502 (1996), doi:<a href="https://pubs.acs.org/doi/10.1021/jp960976r" target="_blank">10.1021/jp960976r</a>.  
+11) NIST Chemistry WebBook. <a href="https://webbook.nist.gov/chemistry/" target="_blank">https://webbook.nist.gov/chemistry/</a>  
+12) CCCBDB. <a href="https://cccbdb.nist.gov/" target="_blank">https://cccbdb.nist.gov/</a>  
+13) <a href="https://webbook.nist.gov/cgi/cbook.cgi?ID=C98862" target="_blank">https://webbook.nist.gov/cgi/cbook.cgi?ID=C98862</a>, NIST, 20-FEB-2020.  
+- MolView：<a href="http://molview.org/" target="_blank">http://molview.org/</a>  
 
 ### Chapter7
-14) Firefly related discussion club. http://classic.chem.msu.su/gran/gamess/forum/discussion.html  
-15) GAMESS - Google Groups. https://groups.google.com/forum/#!forum/gamess  
+14) Firefly related discussion club. <a href="http://classic.chem.msu.su/gran/gamess/forum/discussion.html" target="_blank">http://classic.chem.msu.su/gran/gamess/forum/discussion.html</a>  
+15) GAMESS - Google Groups. <a href="https://groups.google.com/forum/#!forum/gamess" target="_blank">https://groups.google.com/forum/#!forum/gamess</a>  
 
 ### Chapter8
 16) a) 福井謙一, “化学反応と電子の軌道”, 丸善 (1976). b) 稲垣都士, 池田博隆, 山本尚, “フロンティア軌道論で理解する有機化学”, 化学同人 (2018).  
 17) I.Fleming, “Frontier Orbitals and Organic Reactions”, John Wiley (1976). [竹内敬人, 友田修司訳, “フロンティア軌道法入門”, 講談社 (1978).]  
-18) https://ja.wikipedia.org/wiki/有機電子論, Wikipedia, 20-FEB-2020.  
+18) <a href="https://ja.wikipedia.org/wiki/有機電子論" target="_blank">https://ja.wikipedia.org/wiki/有機電子論</a>, Wikipedia, 20-FEB-2020.  
 19) 山口達明, “有機化学の理論 学生の質問に答えるノート”, 三共出版 (2013).  
 
 ### Chapter9
-20) T. Kar, A. B. Sannigrahi, J. Mol. Struct. THEOCHEM. 165, 47-54 (1988), doi:10.1016/0166-1280(88)87005-2.  
-21) F. Martin, H. Zipse, J. Comp. Chem. 26, 97-105 (2005), doi:10.1002/jcc.20157.  
-22) A. E. Reed, R.B. Weinstock, F. Weinhold, J. Chem. Phys. 83, 735-746 (1985), doi:10.1063/1.449486.  
+20) T. Kar, A. B. Sannigrahi, *J. Mol. Struct. THEOCHEM.* **165**, 47-54 (1988), doi:<a href="https://www.sciencedirect.com/science/article/pii/0166128088870052" target="_blank">10.1016/0166-1280(88)87005-2</a>.  
+21) F. Martin, H. Zipse, *J. Comp. Chem.* **26**, 97-105 (2005), doi:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.20157" target="_blank">10.1002/jcc.20157</a>.  
+22) A. E. Reed, R.B. Weinstock, F. Weinhold, *J. Chem. Phys.* **83**, 735-746 (1985), doi:<a href="https://aip.scitation.org/doi/10.1063/1.449486" target="_blank">10.1063/1.449486</a>.  
 23) J. D. Rawn, R. J. Ouellette, “Organic Chemistry: Structure, Mechanism, Synthesis” Academic Press (2018).  
-24) T. N. Sarachman, J. Chem. Phys. 49, 3146 (1968), doi:10.1063/1.1670562.  
-- NBO：https://nbo6.chem.wisc.edu/index.htm
-- Jmol NBO Visualization Helper：http://www.marcelpatek.com/nbo/java-apps.php
+24) T. N. Sarachman, *J. Chem. Phys.* **49**, 3146 (1968), doi:<a href="https://aip.scitation.org/doi/10.1063/1.1670562" target="_blank">10.1063/1.1670562</a>.  
+- NBO：<a href="https://nbo6.chem.wisc.edu/index.htm" target="_blank">https://nbo6.chem.wisc.edu/index.htm</a>
+- Jmol NBO Visualization Helper：<a href="http://www.marcelpatek.com/nbo/java-apps.php" target="_blank">http://www.marcelpatek.com/nbo/java-apps.php</a>
 
 ###  Chapter10
-25) Mark S. Gordon, Jan H. Jensen, Acc. Chem. Res. 29, 536 (1996), doi:10.1021/ar9600594.  
-26) N. R. Kestner, J. E. Combariza "Reviews in Computational Chemistry" 13, 99-132, (1999), doi:10.1002/9780470125908.ch2.  
-27) S. F. Boys, F. Bernardi, Mol. Phys. 19, 553 (1970), doi:10.1080/00268977000101561.  
-28) S. Simon, M. Duran, J. J. Dannenberg, J. Chem. Phys. 105, 11024 (1996), doi:10.1063/1.472902.  
-29) Thomas A. Halgren, J. Comp. Chem. 17, 490-519 (1996), doi:10.1002/(SICI)1096-987X(199604)17:5/6<490::AID-JCC1>3.0.CO;2-P.  
-30) K. Kitaura, K. Morokuma, Int. J. Quantum Chem. 10, 325 (1976), doi:10.1002/qua.560100211.  
+25) Mark S. Gordon, Jan H. Jensen, *Acc. Chem. Res.* **29**, 536 (1996), doi:<a href="https://pubs.acs.org/doi/abs/10.1021/ar9600594" target="_blank">10.1021/ar9600594</a>.  
+26) N. R. Kestner, J. E. Combariza "Reviews in Computational Chemistry" **13**, 99-132, (1999), doi:<a href="https://onlinelibrary.wiley.com/doi/10.1002/9780470125908.ch2" target="_blank">10.1002/9780470125908.ch2</a>.  
+27) S. F. Boys, F. Bernardi, *Mol. Phys.* **19**, 553 (1970), doi:<a href="https://www.tandfonline.com/doi/abs/10.1080/00268977000101561" target="_blank">10.1080/00268977000101561</a>.  
+28) S. Simon, M. Duran, J. J. Dannenberg, *J. Chem. Phys.* **105**, 11024 (1996), doi:<a href="https://aip.scitation.org/doi/10.1063/1.472902" target="_blank">10.1063/1.472902</a>.  
+29) Thomas A. Halgren, *J. Comp. Chem.* **17**, 490-519 (1996), doi:<a href="https://onlinelibrary.wiley.com/doi/10.1002/%28SICI%291096-987X%28199604%2917%3A5/6%3C490%3A%3AAID-JCC1%3E3.0.CO%3B2-P" target="_blank">10.1002/(SICI)1096-987X(199604)17:5/6<490::AID-JCC1>3.0.CO;2-P</a>.  
+30) K. Kitaura, K. Morokuma, *Int. J. Quantum Chem.* **10**, 325 (1976), doi:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.560100211" target="_blank">10.1002/qua.560100211</a>.  
 31) 都築誠二, “有機分子の分子間力: Ab initio 分子軌道法による分子間相互作用エネルギーの解析”, 東京大学出版会 (2015).  
 
 ### Chapter11
