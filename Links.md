@@ -1,5 +1,5 @@
 ### Chapter1
-1) Gaussian社のHP：https://gaussian.com/
+1) Gaussian社のHP：<a href="https://gaussian.com/" target="_blank">https://gaussian.com/</a>
 
 ### Chapter2
 2) Avogadro on rollApp：https://www.rollapp.com/app/avogadro  
@@ -13,8 +13,8 @@
 - PlayOnMac：https://www.playonmac.com/en  
 
 ### Chapter3
-3) A. K. Rappe, C. J. Casewit, K. S. Colwell, W. A. Goddard, W. M. Skiff, J Am. Chem. Soc. 114, 10024–10035, (1992), doi:10.1021/ja00051a040.  
-4) A. R. Hoy, P. R. Bunker, J. Molecular Spectroscopy, 74, 1-8, (1979), doi:10.1016/0022-2852(79)90019-5.  
+3) A. K. Rappe, C. J. Casewit, K. S. Colwell, W. A. Goddard, W. M. Skiff, *J Am. Chem. Soc.* **114**, 10024–10035, (1992), doi:10.1021/ja00051a040.  
+4) A. R. Hoy, P. R. Bunker, *J. Molecular Spectroscopy*, **74**, 1-8, (1979), doi:10.1016/0022-2852(79)90019-5.  
 - XQuartz：https://www.xquartz.org/
 - GAMESSQ ：http://www.msg.chem.iastate.edu/GAMESS/GamessQ/
 - JSmol：https://chemapps.stolaf.edu/jmol/jmol.htm
