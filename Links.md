@@ -30,8 +30,8 @@
 
 ### Chapter4
 5) David C. Young. “Spin Contamination” <a href="http://www.ccl.net/cca/documents/dyoung/topics-orig/spin_cont.html" target="_blank">http://www.ccl.net/cca/documents/dyoung/topics-orig/spin_cont.html</a>, 20-FEB-2020.  
-6) 日本化学会編, “実験科学講座 12”第五版, 丸善 (2004).&emsp;<a href="https://amzn.to/2WX7j0C" target="_blank"><img src="https://user-images.githubusercontent.com/62088244/78211272-75bfe880-74e7-11ea-84b1-8846cd3a14a3.png" width="140px"></a>  
-7) 常田貴夫, “密度汎関数法の基礎”, 講談社 (2012).&emsp;<a href="https://amzn.to/2Juo7Ec" target="_blank"><img src="https://user-images.githubusercontent.com/62088244/78211272-75bfe880-74e7-11ea-84b1-8846cd3a14a3.png" width="140px"></a>  
+6) 日本化学会編, “実験科学講座 12”第五版, 丸善 (2004).&emsp;<a href="https://amzn.to/2WX7j0C" target="_blank"><img src="https://user-images.githubusercontent.com/62088244/78211272-75bfe880-74e7-11ea-84b1-8846cd3a14a3.png" width="140px" align="center"></a>  
+7) 常田貴夫, “密度汎関数法の基礎”, 講談社 (2012).&emsp;<a href="https://amzn.to/2Juo7Ec" target="_blank"><img src="https://user-images.githubusercontent.com/62088244/78211272-75bfe880-74e7-11ea-84b1-8846cd3a14a3.png" width="140px" align="center"></a>  
 8) QCLDBⅡ：<a href="http://qcldb2.ims.ac.jp/" target="_blank">http://qcldb2.ims.ac.jp/</a>  
 - CCCBDB Timings Comparison：<a href="https://cccbdb.nist.gov/timings.asp" target="_blank">https://cccbdb.nist.gov/timings.asp</a>
 - Basis Set Exchange：<a href="https://www.basissetexchange.org" target="_blank">https://www.basissetexchange.org</a>
@@ -55,16 +55,17 @@
 15) GAMESS - Google Groups. <a href="https://groups.google.com/forum/#!forum/gamess" target="_blank">https://groups.google.com/forum/#!forum/gamess</a>  
 
 ### Chapter8
-16) a) 福井謙一, “化学反応と電子の軌道”, 丸善 (1976). b) 稲垣都士, 池田博隆, 山本尚, “フロンティア軌道論で理解する有機化学”, 化学同人 (2018).  
-17) I.Fleming, “Frontier Orbitals and Organic Reactions”, John Wiley (1976). [竹内敬人, 友田修司訳, “フロンティア軌道法入門”, 講談社 (1978).]  
+16) a) 福井謙一, “化学反応と電子の軌道”, 丸善 (1976).&emsp;<a href="https://amzn.to/2R4KG6v" target="_blank"><img src="https://user-images.githubusercontent.com/62088244/78211272-75bfe880-74e7-11ea-84b1-8846cd3a14a3.png" width="140px" align="center"></a>  
+    b) 稲垣都士, 池田博隆, 山本尚, “フロンティア軌道論で理解する有機化学”, 化学同人 (2018).&emsp;<a href="https://amzn.to/2R3BZJO" target="_blank"><img src="https://user-images.githubusercontent.com/62088244/78211272-75bfe880-74e7-11ea-84b1-8846cd3a14a3.png" width="140px" align="center"></a>   
+17) I.Fleming, “Frontier Orbitals and Organic Reactions”, John Wiley (1976). [竹内敬人, 友田修司訳, “フロンティア軌道法入門”, 講談社 (1978).]&emsp;<a href="https://amzn.to/3aA4V3K" target="_blank"><img src="https://user-images.githubusercontent.com/62088244/78211272-75bfe880-74e7-11ea-84b1-8846cd3a14a3.png" width="140px" align="center"></a>  
 18) <a href="https://ja.wikipedia.org/wiki/有機電子論" target="_blank">https://ja.wikipedia.org/wiki/有機電子論</a>, Wikipedia, 20-FEB-2020.  
-19) 山口達明, “有機化学の理論 学生の質問に答えるノート”, 三共出版 (2013).  
+19) 山口達明, “有機化学の理論 学生の質問に答えるノート”, 三共出版 (2013).&emsp;<a href="https://amzn.to/3aN9RCJ" target="_blank"><img src="https://user-images.githubusercontent.com/62088244/78211272-75bfe880-74e7-11ea-84b1-8846cd3a14a3.png" width="140px" align="center"></a>  
 
 ### Chapter9
 20) T. Kar, A. B. Sannigrahi, *J. Mol. Struct. THEOCHEM.* **165**, 47-54 (1988), doi:<a href="https://www.sciencedirect.com/science/article/pii/0166128088870052" target="_blank">10.1016/0166-1280(88)87005-2</a>.  
 21) F. Martin, H. Zipse, *J. Comp. Chem.* **26**, 97-105 (2005), doi:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.20157" target="_blank">10.1002/jcc.20157</a>.  
 22) A. E. Reed, R.B. Weinstock, F. Weinhold, *J. Chem. Phys.* **83**, 735-746 (1985), doi:<a href="https://aip.scitation.org/doi/10.1063/1.449486" target="_blank">10.1063/1.449486</a>.  
-23) J. D. Rawn, R. J. Ouellette, “Organic Chemistry: Structure, Mechanism, Synthesis” Academic Press (2018).  
+23) J. D. Rawn, R. J. Ouellette, “Organic Chemistry: Structure, Mechanism, Synthesis” Academic Press (2018).&emsp;<a href="https://amzn.to/34av9rm" target="_blank"><img src="https://user-images.githubusercontent.com/62088244/78211272-75bfe880-74e7-11ea-84b1-8846cd3a14a3.png" width="140px" align="center"></a>  
 24) T. N. Sarachman, *J. Chem. Phys.* **49**, 3146 (1968), doi:<a href="https://aip.scitation.org/doi/10.1063/1.1670562" target="_blank">10.1063/1.1670562</a>.  
 - NBO：<a href="https://nbo6.chem.wisc.edu/index.htm" target="_blank">https://nbo6.chem.wisc.edu/index.htm</a>
 - Jmol NBO Visualization Helper：<a href="http://www.marcelpatek.com/nbo/java-apps.php" target="_blank">http://www.marcelpatek.com/nbo/java-apps.php</a>
@@ -76,7 +77,7 @@
 28) S. Simon, M. Duran, J. J. Dannenberg, *J. Chem. Phys.* **105**, 11024 (1996), doi:<a href="https://aip.scitation.org/doi/10.1063/1.472902" target="_blank">10.1063/1.472902</a>.  
 29) Thomas A. Halgren, *J. Comp. Chem.* **17**, 490-519 (1996), doi:<a href="https://onlinelibrary.wiley.com/doi/10.1002/%28SICI%291096-987X%28199604%2917%3A5/6%3C490%3A%3AAID-JCC1%3E3.0.CO%3B2-P" target="_blank">10.1002/(SICI)1096-987X(199604)17:5/6<490::AID-JCC1>3.0.CO;2-P</a>.  
 30) K. Kitaura, K. Morokuma, *Int. J. Quantum Chem.* **10**, 325 (1976), doi:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.560100211" target="_blank">10.1002/qua.560100211</a>.  
-31) 都築誠二, “有機分子の分子間力: Ab initio 分子軌道法による分子間相互作用エネルギーの解析”, 東京大学出版会 (2015).  
+31) 都築誠二, “有機分子の分子間力: Ab initio 分子軌道法による分子間相互作用エネルギーの解析”, 東京大学出版会 (2015).&emsp;<a href="https://amzn.to/2X0yGXv" target="_blank"><img src="https://user-images.githubusercontent.com/62088244/78211272-75bfe880-74e7-11ea-84b1-8846cd3a14a3.png" width="140px" align="center"></a>  
 
 ### Chapter11
 32) Jacopo Tomasi, Benedetta Mennucci, Roberto Cammi, *Chem. Rev.* **105**, 2999-3094 (2005),
@@ -102,7 +103,7 @@ No footnotes.
 36) W. J. Hehre, R. Ditchfield, L. Radom, J. A. Pople, *J. Am. Chem. Soc.* **92**, 4796 (1970), doi:<a href="https://pubs.acs.org/doi/abs/10.1021/ja00719a006" target="_blank">10.1021/ja00719a006</a>.  
 37) S. E. Wheeler, K. N. Houk, P. v. R. Schleyer, W. D. Allen, *J. Am. Chem. Soc.* **131**, 2547 (2009), doi:<a href="https://pubs.acs.org/doi/10.1021/ja805843n" target="_blank">10.1021/ja805843n</a>.  
 38) K. B. Wiberg, C. M. Hadad, P. R. Rablen, J. Cioslowski, *J. Am. Chem. Soc.* **114**, 8644 (1992), doi:<a href="https://pubs.acs.org/doi/abs/10.1021/ja00048a044" target="_blank">10.1021/ja00048a044</a>.  
-39) 日本化学会編, “実験科学講座 12”第五版, 丸善 (2004).  
+39) 日本化学会編, “実験科学講座 12”第五版, 丸善 (2004).&emsp;<a href="https://amzn.to/2WX7j0C" target="_blank"><img src="https://user-images.githubusercontent.com/62088244/78211272-75bfe880-74e7-11ea-84b1-8846cd3a14a3.png" width="140px" align="center"></a>  
 40) Y. Zhao, D. G. Truhlar, *Theor Chem Account* **120**, 215–241 (2008), doi:<a href="https://link.springer.com/article/10.1007/s00214-007-0310-x" target="_blank">10.1007/s00214-007-0310-x</a>.  
 41) Harold Booth, Jeremy R. Everett, *J. Chem. Soc., Perkin Trans.* **2**, 255 (1980), doi:<a href="https://pubs.rsc.org/en/content/articlelanding/1980/P2/P29800000255#!divAbstract" target="_blank">10.1039/P29800000255</a>.  
 42) Alfred Karpfen, Cheol Ho Choi, Miklos Kertesz, *J. Phys. Chem. A*, **101**, 7426 (1997),
