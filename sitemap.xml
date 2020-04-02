@@ -4,7 +4,13 @@
 <!--  created with free sitemap generation system www.sitemapxml.jp  --> 
 <url>
   <loc>https://ryokokuga.github.io/SSCQC/</loc>
-  <lastmod>2020-04-01T10:01:27+09:00</lastmod>
+  <priority>1.0</priority>
+  <lastmod>2020-04-02T14:28:07+09:00</lastmod>
+</url>
+<url>
+  <loc>https://ryokokuga.github.io/SSCQC/Links</loc>
+  <priority>0.8</priority>
+  <lastmod>2020-04-02T14:28:07+09:00</lastmod>
 </url>
 
 </urlset>
