@@ -157,17 +157,17 @@ Chapter-16. 付録
 <br/>
 P.100 6行目  
 混乱を招く表現であることから下記のように訂正いたします。  
-誤： 例えば、求電子剤 (電子を受け取る化学種)ではHOMOの最も確率密度の高い部分が反応点となり、求核剤 (電子を与える化学種)ではLUMOの最も確率密度の高い部分が反応点であると予測できます。  
-正： 例えば、求電子剤 (電子を受け取る化学種)では「反応する相手のHOMOの最も確率密度の高い部分」が反応点となり、求核剤 (電子を与える化学種)では「反応する相手のLUMOの最も確率密度の高い部分」が反応点であると予測できます。  
+誤： HOMOの最も確率密度の高い部分が ....LUMOの最も確率密度の高い部分が...  
+正： 「反応する相手のHOMOの最も確率密度の高い部分」が ...「反応する相手のLUMOの最も確率密度の高い部分」が...  
 <br/>
 P.148 3行目   
 スペルミス  
-誤： Sinmple SN2 reaction  
-正： Simple SN2 reaction  
+誤： Sinmple  
+正： Simple  
 <br/>
 P.160-168 ClとBrが一部逆転している箇所があるので訂正いたします。  
-変更箇所をPDFにし、変更する文字を黄色のマーカーで示しております。こちらとあわせてお読みくださいますと幸いです。 
-<a href="https://github.com/RyokoKuga/SSCQC/raw/master/SSCQCP160-168_Errata_Ver1.00.pdf">P160-168_Errata_Ver1.00.pdf</a>
+変更箇所をPDFにし、変更する文字を黄色のマーカーで示しております。こちらとあわせてお読みくださいますと幸いです。  
+<img src="https://user-images.githubusercontent.com/62088244/76489282-36aff180-646b-11ea-977c-f4ed77d5b8d8.png" width="25px">&ensp;[ダウンロード](https://github.com/RyokoKuga/SSCQC/raw/master/SSCQCP160-168_Errata_Ver1.00.pdf)
 <br/>
 <br/>
 <br/>
