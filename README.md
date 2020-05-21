@@ -169,6 +169,11 @@ ClとBrが一部逆転している箇所があるので訂正いたします。
 
 <img src="https://user-images.githubusercontent.com/62088244/82515748-fbf5c400-9b53-11ea-92be-d6af62b74886.png" width="20px">&ensp;[PDFダウンロード](https://github.com/RyokoKuga/SSCQC/raw/master/SSCQCP160-168_Errata_Ver1.00.pdf)  
 <br/>
+
+これらの誤りは、今後の版で改訂いたします。既に本書をご購入頂いた方も、無料で最新版に更新することが可能です。最新版が出版されましたら、本サポートページにて改めてご連絡いたします。
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
