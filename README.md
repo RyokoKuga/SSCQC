@@ -170,9 +170,6 @@ ClとBrが一部逆転している箇所があるので訂正いたします。
 <img src="https://user-images.githubusercontent.com/62088244/82515748-fbf5c400-9b53-11ea-92be-d6af62b74886.png" width="20px">&ensp;[PDFダウンロード](https://github.com/RyokoKuga/SSCQC/raw/master/SSCQCP160-168_Errata_Ver1.00.pdf)  
 <br/>
 <br/>
-< 以上 >
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
