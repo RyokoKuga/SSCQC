@@ -6,7 +6,7 @@
 
 このページは、「ゼロからわかる!! 独習 量子化学計算 ～理論からはじめない新しい量子化学計算の本～」のサポートページです。  
 <br/>
-<img src="https://user-images.githubusercontent.com/62088244/76489219-0ff1bb00-646b-11ea-9073-c387c0032907.jpg" width="120px">
+<img src="https://user-images.githubusercontent.com/62088244/94887633-d093c600-04b1-11eb-8ef9-65632d11b1f3.JPG" width="500px">
 
 <img src="https://user-images.githubusercontent.com/62088244/76576777-7c6dc800-6506-11ea-9b86-0894fb827c7e.png" width="20px">&ensp;<a href="https://amzn.to/2UvBOIf" target="_blank">Amazon製品ページ</a>
 
