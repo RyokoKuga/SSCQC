@@ -152,6 +152,10 @@ Chapter-16. 付録
 <br/>
 
 ### <a name="jump-there2">正誤情報</a>
+補足情報：2020年11月04日更新  
+P40に記載しているJSmolのURL(https://chemapps.stolaf.edu/jmol/jmol.htm) にアクセスできない場合は、以下のURLへアクセスしてみてください。  
+https://chemapps.stolaf.edu/jmol/jmol.php?source=?  
+
 補足情報：2020年06月16日更新  
 MaSKのダウンロードページのドメインが更新され、これまで通りソフトウェアにアクセスできるようになりました。  
 Dr. Yevgeniy, Dr. Leszczynskiに感謝いたします。
