@@ -152,6 +152,10 @@ Chapter-16. 付録
 <br/>
 
 ### <a name="jump-there2">正誤情報</a>
+補足情報：2021年04月26日更新  
+MoCalc2012のJSmol起動時に読込みエラーが発生する場合は、以下のページを参照してローカルファイルへのアクセスを許可してください。  
+[http://wiki.jmol.org/index.php/Troubleshooting/Local_Files](http://wiki.jmol.org/index.php/Troubleshooting/Local_Files)  
+<br/>
 補足情報：2020年11月19日更新  
 Chapter2のP17におけるGAMESS(US)の導入について、Windowsユーザーは予めMS-MPIの導入を行うようにしてください。標準でMPIがインストールされていないPCの場合、MoCalc2012でエラーが出力されます。MPIの導入方法は、Chapter6(P74)に記載のように、Windows 64bit 版(Ver. Aug 18, 2016)の場合、gamess-64フォルダのMS-MPIにある「MSMpiSetup.exe」をインストールします。インストール時にエラーが出る場合は、以下から「msmpisdk.msi」を入手して試してみてください。  
 <br/>
