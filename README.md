@@ -152,49 +152,8 @@ Chapter-16. 付録
 <br/>
 
 ### <a name="jump-there2">正誤情報</a>
-補足情報：2021年04月26日更新  
-MoCalc2012のJSmol起動時に読込みエラーが発生する場合は、以下のページを参照してローカルファイルへのアクセスを許可してください。  
-[http://wiki.jmol.org/index.php/Troubleshooting/Local_Files](http://wiki.jmol.org/index.php/Troubleshooting/Local_Files)  
-<br/>
-補足情報：2020年11月19日更新  
-Chapter2のP17におけるGAMESS(US)の導入について、Windowsユーザーは予めMS-MPIの導入を行うようにしてください。標準でMPIがインストールされていないPCの場合、MoCalc2012でエラーが出力されます。MPIの導入方法は、Chapter6(P74)に記載のように、Windows 64bit 版(Ver. Aug 18, 2016)の場合、gamess-64フォルダのMS-MPIにある「MSMpiSetup.exe」をインストールします。インストール時にエラーが出る場合は、以下から「msmpisdk.msi」を入手して試してみてください。  
-<br/>
-Microsoft MPI v10.0  
-[https://www.microsoft.com/en-us/download/details.aspx?id=57467](https://www.microsoft.com/en-us/download/details.aspx?id=57467)  
-<br/>
-その他にご不明な点や、エラーなどで動作しない場合は、ご遠慮無くお問い合わせください。  
-
-補足情報：2020年11月04日更新  
-P40に記載しているJSmolのURL(https://chemapps.stolaf.edu/jmol/jmol.htm) にアクセスできない場合は、以下のURLへアクセスしてみてください。  
-[https://chemapps.stolaf.edu/jmol/jmol.php?source=?](https://chemapps.stolaf.edu/jmol/jmol.php?source=?)    
-<br/>
-
-【 ver.1.10 】2020年05月26日発行  
-本書の以下の部分に誤りがありました。ここに訂正するとともに、ご不便をおかけしておりますことを深くお詫び申し上げます。  
-<br/>
-P.193 07行目  
-誤： 「⊿G゜<0」であることから、発熱反応であることもわかります。  
-正： 「⊿G゜<0」であることから、反応は自発的に起こることもわかります。  
-<br/>
-P.200 12行目    
-誤： 標準状態(1atm, 298.15K)のエントロピーを求めたい場合は、...  
-正： 標準状態(1atm, 298.15K)のエンタルピーを求めたい場合は、...  
-<br/>
-その他、単純な誤植については[こちら](https://github.com/RyokoKuga/SSCQC/blob/master/ERRATA.md)をご参照ください。  
-<br/>
-【 ver.1.00 (初版) 】2020年03月19日発行  
-本書の以下の部分に誤りがありました。ここに訂正するとともに、ご不便をおかけしておりますことを深くお詫び申し上げます。  
-なお、以下の誤りはver.1.10(2020年05月26日発行)で修正されております。2020年05月26日以前に購入された方は、無料で最新版に更新することが可能です。  
-<br/>
-P.100 6行目    
-誤： HOMOの最も確率密度の高い部分が ...LUMOの最も確率密度の高い部分が...  
-正： 「反応する相手のHOMOの最も確率密度の高い部分」が ...「反応する相手のLUMOの最も確率密度の高い部分」が...  
-<br/>
-P.160-168  
-ClとBrが一部逆転している箇所があるので訂正いたします。  
-変更箇所をPDFにし、変更する文字を黄色のマーカーで示しております。こちらとあわせてお読みくださいますと幸いです。  
-
-<img src="https://user-images.githubusercontent.com/62088244/82515748-fbf5c400-9b53-11ea-92be-d6af62b74886.png" width="20px">&ensp;[PDFダウンロード](https://github.com/RyokoKuga/SSCQC/raw/master/SSCQCP160-168_Errata_Ver1.00.pdf)  
+書籍の正誤表は、本リポジトリの[ERRATAファイル](https://github.com/RyokoKuga/SSCQC/blob/master/ERRATA.md)をご参照ください。  
+また、補足情報(よくある質問と回答)は、[FAQファイル](https://github.com/RyokoKuga/SSCQC/blob/master/FAQ.md)にまとめています。適時、ご参照ください。 
 <br/>
 <br/>
 <br/>
