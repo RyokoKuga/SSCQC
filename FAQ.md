@@ -12,6 +12,21 @@ GAMESS(US)の導入について、Windowsユーザーは予めMS-MPIの導入を
 
 その他にご不明な点や、エラーなどで動作しない場合は、ご遠慮無くお問い合わせください。  
 
+## P.19: 他のバージョンのGAMESS(US)とMoCalc2019の連携
+
+本書では「Ver. Aug 18, 2016」の使用を推奨しています。もし、最近の「Ver. June 30, 2019 R1」を使用したい場合は、MoCalc2012(ver4.2.0.3)と連携するのに少し工夫が必要です。  
+例えば、「gamess-64-2019-R1-Patch-1-pgiblas.msi」をダウンロードしたら、通常通りインストーラーの指示に従ってインストールしてください。インストールが終了するとREADMEのPDFが開くので、それの指示に従って並列計算用のMS-MPIを導入します。  
+
+MS-MPIはインストールしたフォルダの「gamess-64\MS-MPI\Version 10.0.12498.5\msmpisetup.exe」にあります。インストール時にエラーが出る場合は、以下から「msmpisdk.msi」を入手して試したみてください。  
+
+[Microsoft MPI v10.0](https://www.microsoft.com/en-us/download/details.aspx?id=57467)  
+
+インストールしたフォルダのWindows-Command-Promptを開いて、一度Enterキーを押して 「create-parameters.bat 」と入力して Enter を押します。これで「 rungms.gms 」というファイルが作成されれば導入は完了です。
+
+本体の実行ファイル名「gamess.2019.R1.P1.pgiblas.exe」のままで、MoCalc2012と連携させるとエラーが発生します。そこで、「gamess.2019-R1-P1.pgiblas.exe」とファイル名を変更してください。あとは、通常通りMoCalc2012のメイン画面のOptions>Settingsから実行ファイルのある場所を指定すれば使用できるようになります。
+
+「June 30, 2020 R1 」以降のバージョンは、MoCalc2012(ver4.2.0.3)と上手く連携・実行できないようなので、推奨しません。
+
 ## P.27: MoCalc2012で計算が実行できない
 
 本書の手順に従っても「Error: No GAMESS/Firefly result file found! 」と表示されて、計算が実行されない場合は、初期設定や入力ファイルで指定したディレクトリ名に日本語やスペース、特殊文字などが含まれていないか確認してください。  
