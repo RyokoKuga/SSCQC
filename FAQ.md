@@ -41,6 +41,8 @@ Fireflyのフォルダ内にbindingsというフォルダがあります。bindi
 
 ## P.182: MoCalc2012のIRC計算について
 
+遷移状態用の座標ファイル(molファイルなど)をMoCalc2012で読み込み、Job Type「IRC Calculation」で計算を実行してください。遷移状態計算用の入力ファイル（RUNTYP=SADPOINT）を読み込んで実行すると、単に遷移状態計が実行されるだけです。  
+
 書籍では、「続けてIRC計算をおこないますか？」という意訳を使っていますが、実際は、P.182中程の画像のように「2nd part of GAMESS/Firefly calculation ready. Results of 1st run will be overwritten. Proceed with calculation?」（GAMESS/Fireflyの次の計算準備が整いました。はじめの計算結果は上書きされます。計算を続行しますか？）というダイアログ画面で、「はい」又は「いいえ」を選択します。  
 
 このダイアログウインドウが表示されない場合は、遷移状態計算が正常に終了していない可能性があります。分子座標及び入力ファイルのキーワードを見直してみてください。  
