@@ -39,3 +39,8 @@ Fireflyのフォルダ内にbindingsというフォルダがあります。bindi
 
 詳細は、[公式のインフォメーション](http://classic.chem.msu.su/gran/gamess/bindings.html)を参照してください。
 
+## P.182: MoCalc2012のIRC計算について
+
+書籍では、「続けてIRC計算をおこないますか？」という意訳を使っていますが、実際は、P.182中程の画像のように「2nd part of GAMESS/Firefly calculation ready. Results of 1st run will be overwritten. Proceed with calculation?」（GAMESS/Fireflyの次の計算準備が整いました。はじめの計算結果は上書きされます。計算を続行しますか？）というダイアログ画面で、「はい」又は「いいえ」を選択します。  
+
+このダイアログウインドウが表示されない場合は、遷移状態計算が正常に終了していない可能性があります。分子座標及び入力ファイルのキーワードを見直してみてください。  
