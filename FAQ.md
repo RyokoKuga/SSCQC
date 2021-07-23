@@ -48,7 +48,7 @@ Chapter16-2(P.241): スタンドアローン版のJSmolでエラーが発生す�
 
 ## P.74: Fireflyの並列計算ができない
 
-以下の方法を試してみてください(スタンドアロンのSMP/マルチコアシステムによる並列計算)。  
+Windowsユーザーは、以下の方法を試してみてください(スタンドアロンのSMP/マルチコアシステムによる並列計算)。  
 
 Fireflyのフォルダ内にbindingsというフォルダがあります。bindingsフォルダ内の「mpibind.nt-mpich-smp.dll」をFirefly実行ファイル(exe)と同じ階層へコピーしてください。最後に、コピーした「mpibind.nt-mpich-smp.dll」を「mpibind.dll」にリネームし、Firefly実行ファイルと同じ階層にある同名ファイルと置き換えてください。  
 
