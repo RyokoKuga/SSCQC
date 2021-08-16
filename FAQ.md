@@ -65,6 +65,21 @@ Fireflyのフォルダ内にbindingsというフォルダがあります。bindi
 
 詳細は、[公式のインフォメーション](http://classic.chem.msu.su/gran/gamess/bindings.html)を参照してください。
 
+## P.83: MaSKで分子が正常に描画できない
+
+MaSKは、出力ファイルの最初の行に、複数行段落が存在すると分子座標を正常に描画できない不具合があります。  
+例えば、以下のような情報が記載されている場合がそうです(xxxxxは実行環境によって記載が異なります)。  
+
+Grand Master is running on host xxxxx  
+rank #     1 is running on host xxxxx  
+rank #     2 is running on host xxxxx  
+rank #     3 is running on host xxxxx  
+rank #     4 is running on host xxxxx  
+rank #     5 is running on host xxxxx  
+
+これは、Fieflyの実行環境によって出力内容が異なのが原因です。  
+この場合、該当行を削除することで正常に分子座標を表示することができます。  
+
 ## P.182: MoCalc2012のIRC計算について
 
 遷移状態用の座標ファイル(molファイルなど)をMoCalc2012で読み込み、Job Type「IRC Calculation」で計算を実行してください。遷移状態計算用の入力ファイル（RUNTYP=SADPOINT）を読み込んで実行すると、単に遷移状態計が実行されるだけなので注意してください。  
