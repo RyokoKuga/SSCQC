@@ -96,7 +96,25 @@ rank #     5 is running on host xxxxx
 
 ## P.153: 遷移状態の計算結果の可視化
 
-MoCalc2012を使った方法について補足します。詳細は特設ページをご参照ください。
+MoCalc2012を使った方法について補足します。MoCalc2012で遷移状態の計算が終了した状態、または、Outputファイルを読み込んだ状態から解説します。ここでは、「SampleData/Chapter12/BromoEthane _TS.out」を使用します。
+
+1)MoCalc2012のメイン画面から[Structure]ボタンをクリックします。  
+<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/mocal001.png" width="600px">  
+
+2)ブラウザ(JSmol)で構造が表示されたら、右クリックメニューから[モデル]を選択します。ここでは、-613.87cm^-1の虚振動を持つ構造を表示させます。  
+<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/mocal002.png" width="600px">  
+
+3)右クリックメニューから[振動>オン]を選択し、振動モードのアニメーションを確認します。  
+<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/mocal003.png" width="600px">  
+
+
+なお、Outputファイルから、「FREQUENCIES IN」を検索すると虚振動の有無を確認できます。虚数がある場合は、FREQUENCY:行の数字の横にimaginary numberの頭文字” I “が表示されます。
+
+「FREQUENCIES IN」が複数見つかる場合は、必ず「THIS IS NOT A STATIONARY POINT ON THE MOLECULAR PES THE VIBRATIONAL ANALYSIS IS NOT VALID !!!」と書かれている振動解析の結果を使用しないように注意しましょう。これは、最終的に得たい目的の値ではないので、この警告が書かれている振動解析の結果は利用しないでください。
+
+必ず、「THIS IS NOT A STATIONARY POINT ON THE MOLECULAR PES THE VIBRATIONAL ANALYSIS IS NOT VALID !!!」の書かれていない結果を参照しましょう。
+
+MoCalc2012では、「THIS IS NOT A STATIONARY POINT ON THE MOLECULAR PES THE VIBRATIONAL ANALYSIS IS NOT VALID !!!」で表示される振動データも読み込んでしまうので注意が必要です。ブラウザで構造が表示されるJSmolの右クリックメニューにも、これらの振動モードに対応した構造が含まれるので誤って選択しないようにしましょう。  
 
 ## P.169: GAMESS(US)のRUNTYP=SURFACEについて
 
