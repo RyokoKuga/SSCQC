@@ -108,7 +108,7 @@ MoCalc2012を使った方法について補足します。MoCalc2012で遷移状
 <img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/mocal003.png" width="600px">  
 
 
-なお、Outputファイルから、「FREQUENCIES IN」を検索すると虚振動の有無を確認できます。虚数がある場合は、FREQUENCY:行の数字の横にimaginary numberの頭文字” I “が表示されます。  
+なお、Outputファイルから虚振動の有無を直接確認するには、「FREQUENCIES IN」を検索します。虚数がある場合は、FREQUENCY:行の数字の横にimaginary numberの頭文字” I “が表示されます。  
 <img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/mocal004.png" width="600px">  
 
 「FREQUENCIES IN」が複数見つかる場合は、必ず「THIS IS NOT A STATIONARY POINT ON THE MOLECULAR PES THE VIBRATIONAL ANALYSIS IS NOT VALID !!!」と書かれている振動解析の結果を使用しないように注意しましょう。これは、最終的に得たい目的の値ではないので、この警告が書かれている振動解析の結果は利用しないでください。
