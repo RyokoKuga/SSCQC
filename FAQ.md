@@ -94,6 +94,39 @@ rank #     5 is running on host xxxxx
 これは、Fieflyの実行環境によって出力内容が異なのが原因です。  
 この場合、該当行を削除することで正常に分子座標を表示することができます。  
 
+## P.103: フロンティア軌道の可視化
+
+MoCalc2012を使った方法について補足します。MoCalc2012で計算が終了した状態、または、Outputファイルを読み込んだ状態から解説します。ここでは、「SampleData/Chapter08/HF_6-31G(d)/Phenol.out」を使用します。
+
+1)MoCalc2012のメイン画面から[Orbitals Surfaces]ボタンをクリックします。  
+<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/orb001.png" width="600px">  
+
+2)サブウインドウが表示されるので[Structure, Orbitals]をクリックします。  
+<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/orb002.png" width="200px">  
+ブラウザ(JSmol)で構造が表示されます。右クリックメニューから[面>分子軌道>#33A-0.3092]を選択します。  
+<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/orb003.png" width="600px">  
+HOMOが可視化された様子は下図の通りです。  
+<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/orb004.png" width="600px">  
+
+3)電子に占有されている最もエネルギーの高い分子軌道(HOMO)の準位は、Outputファイルを開き「NUMBER OF OCCUPIED ORBITALS (ALPHA)」を検索すると見つかります。ここで、25番目の軌道がHOMOであることが分かります。
+<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/orb005.png" width="600px">  
+P115に記載されてる方法で、25番目の軌道に関する情報を参照すると、軌道のエネルギーが-0.3092Hartreesであることが分かります。先ほど右クリックメニューから選択した[面>分子軌道>#33A-0.3092]の[-0.3092]は、このエネルギー値のことを表します。
+<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/orb006.png" width="600px">  
+JSmolの右クリックメニュー[面>分子軌道>#番号]で表示される番号(ここでは#33)は、Outputファイルに記載されているHOMOの軌道番号と一致しないので注意しましょう。これは、JSmolの仕様上の問題です。 [面>分子軌道>]の#1~8を確認するとわかるようにNaN(非数)と必要ない箇所も読み込まれるのが原因です。つまり#33から必要ない#8の数字を引いた数字25がHOMOの軌道番号と一致する事が分かります。
+<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/orb007.png" width="600px">  
+
+## P.121: 静電ポテンシャルマップの表示
+
+MoCalc2012を使った方法について補足します。MoCalc2012で計算が終了した状態、または、Outputファイルを読み込んだ状態から解説します。ここでは、「SampleData/Chapter06/HF_6-31G(d)/Acetophenon.out」を使用します。
+
+1)MoCalc2012のメイン画面から[Orbitals Surfaces]ボタンをクリックします。  
+<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/ep001.png" width="600px">  
+
+2)サブウインドウが表示されるので[Electrostatic Potential]をクリックします。  
+<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/ep002.png" width="200px">  
+ブラウザ(JSmol)で構造が表示されます。静電ポテンシャルマップが表示された様子は下図の通りです。  
+<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/ep003.png" width="600px">  
+
 ## P.153: 遷移状態の計算結果の可視化
 
 MoCalc2012を使った方法について補足します。MoCalc2012で遷移状態の計算が終了した状態、または、Outputファイルを読み込んだ状態から解説します。ここでは、「SampleData/Chapter12/BromoEthane _TS.out」を使用します。
