@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/62088244/76576777-7c6dc800-6506-11ea-9b86-0894fb827c7e.png" width="20px">&ensp;<a href="https://amzn.to/2UvBOIf" target="_blank">Amazon製品ページ</a>
 
 ### ※2023年以降に本書をご購入された方へ
-2023年4月以降に本書をご購入いただいた方向けの特設ページを設置致しましたので、以下のリンクからご確認ください。 
+2023年4月以降に本書をご購入いただいた方向けの特設ページを設置致しました。以下のリンクからご確認ください。 
 
 [2023年以降に本書をご購入された方へ](https://github.com/RyokoKuga/SSCQC/blob/master/Af2023.md)  
 
