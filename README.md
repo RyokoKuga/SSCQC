@@ -10,6 +10,10 @@
 
 <img src="https://user-images.githubusercontent.com/62088244/76576777-7c6dc800-6506-11ea-9b86-0894fb827c7e.png" width="20px">&ensp;<a href="https://amzn.to/2UvBOIf" target="_blank">Amazon製品ページ</a>
 
+### ※2023年以降に本書をご購入された方へ
+2023年4月以降に本書をご購入いただいた方向けの特設ページを設置致しましたので、以下のリンクからご確認ください。  
+[2023年以降に本書をご購入された方へ](https://github.com/RyokoKuga/SSCQC/blob/master/Af2023.md)  
+
 ### 内容紹介
 本書は、はじめて量子化学計算にとりくむ初心者向けのやさしい入門書です。一般的な家庭用パソコンやスマートフォンからでも計算環境を構築でき、GAMESS(US)やFireflyといった無料のソフトウェアを使うので誰でも簡単に学習をはじめられます(Windows, Mac両対応)。
 
