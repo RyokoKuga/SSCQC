@@ -29,9 +29,7 @@ MS-MPIはインストールしたフォルダの「gamess-64\MS-MPI\Version 10.0
 
 ## P.21: MaSKがダウンロードできない
 
-現在、サイトのドメイン期限が切れてダウンロードできない状況が確認されています。状況が一時的なものかどうかは不明ですが、製作者に問い合わせ中ですので少々お待ち下さい。問い合わせ確認後、状況を更新いたします。サイトの復旧が確認されるまでは、ご不便とは思いますがMoCalc2012などで代替をご検討ください。  
-
-その際、ご不明な点などございましたら、本書記載のメールアドレスまで、ご遠慮無くお問い合わせください。  
+現在、サイトのドメイン期限が切れてダウンロードできない状況が確認されています。本書で学習をする上で、MaSKの使用は必須ではございません。しかし、MaSKを使って説明している箇所がいくつかありますので、以下の特設ページにて、MoCalc2012を使った方法を記載し補足しております。
 
 ## P.27: MoCalc2012で計算が実行できない
 
@@ -113,41 +111,7 @@ HOMOが可視化された様子は下図の通りです。
 P115に記載されてる方法で、25番目の軌道に関する情報を参照すると、軌道のエネルギーが-0.3092Hartreesであることが分かります。先ほど右クリックメニューから選択した[面>分子軌道>#33A-0.3092]の[-0.3092]は、このエネルギー値のことを表します。
 <img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/orb006.png" width="600px">  
 JSmolの右クリックメニュー[面>分子軌道>#番号]で表示される番号(ここでは#33)は、Outputファイルに記載されているHOMOの軌道番号と一致しないので注意しましょう。これは、JSmolの仕様上の問題です。 [面>分子軌道>]の#1~8を確認するとわかるようにNaN(非数)と必要ない箇所も読み込まれるのが原因です。つまり#33から必要ない#8の数字を引いた数字25がHOMOの軌道番号と一致する事が分かります。  
-<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/orb007.png" width="600px">  
-
-## P.121: 静電ポテンシャルマップの表示
-
-MoCalc2012を使った方法について補足します。MoCalc2012で計算が終了した状態、または、Outputファイルを読み込んだ状態から解説します。ここでは、「SampleData/Chapter06/HF_6-31G(d)/Acetophenon.out」を使用します。
-
-1)MoCalc2012のメイン画面から[Orbitals Surfaces]ボタンをクリックします。  
-<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/ep001.png" width="600px">  
-
-2)サブウインドウが表示されるので[Electrostatic Potential]をクリックします。  
-<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/ep002.png" width="200px">  
-ブラウザ(JSmol)で構造が表示されます。静電ポテンシャルマップが表示された様子は下図の通りです。  
-<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/ep003.png" width="600px">  
-
-## P.153: 遷移状態の計算結果の可視化
-
-MoCalc2012を使った方法について補足します。MoCalc2012で遷移状態の計算が終了した状態、または、Outputファイルを読み込んだ状態から解説します。ここでは、「SampleData/Chapter12/BromoEthane _TS.out」を使用します。
-
-1)MoCalc2012のメイン画面から[Structure]ボタンをクリックします。  
-<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/mocal001.png" width="600px">  
-
-2)ブラウザ(JSmol)で構造が表示されたら、右クリックメニューから[モデル]を選択します。ここでは、-613.87cm^-1の虚振動を持つ構造を表示させます。  
-<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/mocal002.png" width="600px">  
-
-3)右クリックメニューから[振動>オン]を選択し、振動モードのアニメーションを確認します。  
-<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/mocal003.png" width="600px">  
-
-
-なお、Outputファイルから虚振動の有無を直接確認するには、「FREQUENCIES IN」を検索します。虚数がある場合は、FREQUENCY:行の数字の横にimaginary numberの頭文字” I “が表示されます。  
-<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/mocal004.png" width="600px">  
-
-「FREQUENCIES IN」が複数見つかる場合は、「THE VIBRATIONAL ANALYSIS IS NOT VALID !!!」と書かれている振動解析の結果を使用しないように注意しましょう。これは、最終的に得たい目的の値ではないので、この警告が書かれている振動解析の結果は利用しないでください。  
-<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/mocal005.png" width="600px"> 
-
-MoCalc2012では、「THE VIBRATIONAL ANALYSIS IS NOT VALID !!!」の振動データも読み込んでしまうので注意が必要です。ブラウザで構造が表示されるJSmolの右クリックメニューにも、これらの振動モードに対応した構造が含まれるので誤って選択しないようにしましょう。  
+<img src="https://github.com/RyokoKuga/SSCQC/blob/master/Image/orb007.png" width="600px">   
 
 ## P.169: GAMESS(US)のRUNTYP=SURFACEについて
 
